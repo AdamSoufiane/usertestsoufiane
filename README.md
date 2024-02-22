@@ -1,0 +1,1 @@
+This shred represents the User Registration API feature within a Spring Boot microservice, following Hexagonal Architecture. It outlines the Application, Domain, and Infrastructure layers with their respective components. The Application layer coordinates user registration workflow, the Domain layer
